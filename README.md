@@ -1,7 +1,10 @@
 # Denwer5-php7.2-docker-image
 This repo is a part of [Denwer5](https://github.com/Shcneider/denwer5) 
 (docker-flavored environment for PHP-developers contains nginx, php-fpm, mysql, composer and etc.).
-See more: https://github.com/Shcneider/denwer5
+
+See more: https://github.com/Shcneider/denwer5  
+Docker Hub: https://cloud.docker.com/u/shcneider/repository/docker/shcneider/php7.2-fpm-stretch-composer-extensions  
+
 
 ## Custom php7.2-fpm image based on official php:7.2-fpm-stretch contains:
 - php7.2-fpm
